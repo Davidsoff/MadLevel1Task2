@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Mad Level 1 Task 2</string>
+    <string name="assignment">Conjunction (AND)</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="AB">A ^ B</string>
+    <string name="truth">T</string>
+    <string name="untrue">F</string>
+    <string name="submit">SUBMIT</string>
+    <string name="results">You have answered %d out of 4 correctly</string>
+
+    <string-array name="answers">
+        <item></item>
+        <item>T</item>
+        <item>F</item>
+    </string-array>
 </resources>
